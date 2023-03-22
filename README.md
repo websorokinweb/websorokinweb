@@ -21,7 +21,7 @@
 </details>
 
 <h1>More about me:</h1>
-<p>:mortar_board: WSB student</p>
+<p>:mortar_board: student WSB in Poznań</p>
 <p>🌱 I am learning:</p>
 <ul>
   <li>how to develop mobile apps with Capacitor.js</li>
