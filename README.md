@@ -20,7 +20,6 @@
   <img src="https://github.com/websorokinweb/websorokinweb/blob/0fc237c81fd4354d0fc8ef8e6231f196c86e05fe/portfolio/FlokiCyberPunk.png" />
 </details>
 
-<br />
 <h1>More about me:</h1>
 <p>:mortar_board: WSB student</p>
 <p>🌱 I am learning:</p>
