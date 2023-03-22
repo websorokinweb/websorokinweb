@@ -1,4 +1,7 @@
 <h1>Latest projects I am proud of:</h1>
+<a href="https://websorokinweb-psychic-carnival-vwxrrgpxqvr2pr4p-3000.preview.app.github.dev/">East Trade</a>
+<br />
+<br />
 <a href="https://websorokinweb.github.io/Elvion/">Legend of Elvion</a>
 <br />
 <br />
