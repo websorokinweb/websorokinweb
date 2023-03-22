@@ -2,7 +2,7 @@
 <a href="https://websorokinweb-psychic-carnival-vwxrrgpxqvr2pr4p-3000.preview.app.github.dev/">:corn: East Trade</a>
 <p>Once, I had the idea of creating a multilingual website. It's funny because I had the opportunity to do so just a month later</p>
 <details>
-  <summary>Unfortunately, that commercial project does not exist anymore. But you can see png preview</summary>
+  <summary>Unfortunately, this commercial project does not exist anymore. But you can see png preview</summary>
   <img src="https://github.com/websorokinweb/websorokinweb/blob/873a7748132a3b72513bea05169bf9bea8fef61b/portfolio/EastTrade.png" />
 </details>
 <br />
