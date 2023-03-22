@@ -1,4 +1,4 @@
-<h2>Projects I am proud of:</h2>
+<h1>Projects I am proud of:</h1>
 <a href="https://websorokinweb-psychic-carnival-vwxrrgpxqvr2pr4p-3000.preview.app.github.dev/">:corn: East Trade</a>
 <p>Once, I had the idea of creating a multilingual website. It's funny because I had the opportunity to do so just a month later</p>
 <details>
@@ -20,7 +20,7 @@
   <img src="https://github.com/websorokinweb/websorokinweb/blob/0fc237c81fd4354d0fc8ef8e6231f196c86e05fe/portfolio/FlokiCyberPunk.png" />
 </details>
 
-<h2>More about me:</h2>
+<h1>More about me:</h1>
 <p>:mortar_board: Student WSB in Poznań</p>
 <p>🌱 I am learning:</p>
 <ul>
