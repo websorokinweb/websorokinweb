@@ -21,7 +21,7 @@
 </details>
 
 <br />
-<h2>Other info</h2>
+<h1>More about me:</h1>
 <p>:mortar_board: WSB student</p>
 <p>🌱 I am learning:</p>
 <ul>
