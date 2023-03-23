@@ -1,5 +1,5 @@
 <h1>Projects I am proud of:</h1>
-<a href="https://websorokinweb-psychic-carnival-vwxrrgpxqvr2pr4p-3000.preview.app.github.dev/">:corn: East Trade</a>
+<a href="https://east-trade.vercel.app/">:corn: East Trade</a>
 <p>Once, I had the idea of creating a multilingual website. It's funny because I had the opportunity to do so just a month later</p>
 <details>
   <summary>Unfortunately, this commercial project does not exist anymore. But you can look at png preview</summary>
