@@ -1,22 +1,22 @@
 <h1>Projects I am proud of:</h1>
-<a href="https://east-trade.vercel.app/">:corn: East Trade</a>
+<a href="https://smf-east-trade.com/">:corn: East Trade</a>
 <p>Once, I had the idea of creating a multilingual website. It's funny because I had the opportunity to do so just a month later</p>
 <details>
-  <summary>Unfortunately, this commercial project does not exist anymore. But you can look at png preview</summary>
+  <summary>Preview</summary>
   <img src="https://github.com/websorokinweb/websorokinweb/blob/873a7748132a3b72513bea05169bf9bea8fef61b/portfolio/EastTrade.png" />
 </details>
 <br />
 <a href="https://websorokinweb.github.io/Elvion/">:japanese_castle: Legend of Elvion</a>
 <p>In my opinion, it is the most aesthetic website I have ever created. Unfortunately, the startup failed, but owner allowed me to include it in my portfolio</p>
 <details>
-  <summary>View png preview</summary>
+  <summary>Preview</summary>
   <img src="https://github.com/websorokinweb/websorokinweb/blob/f1fd375df537333677ecaa1594439e4fd8ae97e3/portfolio/LegendOfElvion.png" />
 </details>
 <br />
 <a href="https://flokicyberpunk.com/">:turtle: FlokiCyberPunk</a>
 <p>It is really sad to notice websites I created are gone. That is why I really appreciate this website's long lifespan (about 2 years)</p>
 <details>
-  <summary>View png preview</summary>
+  <summary>Preview</summary>
   <img src="https://github.com/websorokinweb/websorokinweb/blob/0fc237c81fd4354d0fc8ef8e6231f196c86e05fe/portfolio/FlokiCyberPunk.png" />
 </details>
 
